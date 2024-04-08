@@ -1,0 +1,36 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+  width: 260px;
+  align-items: center;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  gap: 10px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.field {
+  display: flex;
+}
+
+.button {
+  border: none;
+  font-size: 20px;
+  width: 150px;
+  border-radius: 4px;
+  background-color: dodgerblue;
+  color: aliceblue;
+}
+
+.button:hover {
+  background-color: cornflowerblue;
+}
+
+.error {
+  margin-top: 4px;
+  font-size: 12px;
+  color: red;
+  text-align: start;
+}

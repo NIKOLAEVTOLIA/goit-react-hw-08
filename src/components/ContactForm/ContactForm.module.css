@@ -17,20 +17,19 @@
 
 .button {
   border: none;
-  font-size: 20px;
   width: 150px;
   border-radius: 4px;
-  background-color: dodgerblue;
+  background-color: #00adf7;
   color: aliceblue;
 }
 
 .button:hover {
-  background-color: cornflowerblue;
+  background-color: #31c8ee;
 }
 
 .error {
   margin-top: 4px;
   font-size: 12px;
-  color: red;
+  color: rgb(255, 8, 0);
   text-align: start;
 }

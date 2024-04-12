@@ -1,0 +1,9 @@
+.link {
+  padding: 15px;
+  font-weight: 500;
+  color: #00adf7;
+}
+
+.link:hover {
+  color: #31c8ee;
+}
